@@ -13,6 +13,7 @@ FC (+ Softmax)            |    10250    |
 
 Model Accuracy
 
+| Data Subset       | Accuracy|
 --------------------|:-------:|
 Training Accuracy   | 100.00% |
 Validation Accuracy | 92.92%  |
