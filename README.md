@@ -12,13 +12,11 @@ FC (+ Softmax)            |    10250    |
 
 
 Model Accuracy
-------------------------------|
+
+--------------------|:-------:|
 Training Accuracy   | 100.00% |
---------------------|---------|
 Validation Accuracy | 92.92%  |
---------------------|---------|
 Testing Accuracy    | 92.22%  |
-------------------------------|
 
 Findings: After < 10 epochs, the validation accuracy plateaued at ~92%, whereas the training accuracy kept climbing to 100%. This would suggest overfitting, which could be resolved for example, by adding/increasing regularization among many other techniques used to address overfitting.
 
